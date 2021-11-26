@@ -3,9 +3,9 @@ my project game
 
 
 
-			#define _CRT_SECURE_NO_WARNINGS
-			#include <SFML\Graphics.hpp>
-			#include <iostream>
+		#define _CRT_SECURE_NO_WARNINGS
+		#include <SFML\Graphics.hpp>
+		#include <iostream>
 		#include <sstream>
 		#include "Enemy.h"
 		#include "Enemy1.h"
